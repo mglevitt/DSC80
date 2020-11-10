@@ -558,7 +558,8 @@ def short_answer():
     True
     """
 
-    return []
+    return [.0058,.83,[.79,.85],.058,[True,True]]
+
 
 # ---------------------------------------------------------------------
 # DO NOT TOUCH BELOW THIS LINE
